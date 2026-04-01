@@ -24,7 +24,7 @@ A focused first conversation to understand your goals, challenges, and prioritie
 - Identify your desired outcomes
 - Determine fit for coaching, consulting, or a combined approach
 
-Length: 20 minutes
+Length: 20 minutes  
 Fee: Complimentary
 
 #### Step 2: Clarity and Strategy
