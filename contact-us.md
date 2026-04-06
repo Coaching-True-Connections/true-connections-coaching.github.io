@@ -5,7 +5,7 @@ permalink: /contact-us/
 feature_image: /images/Lake_Modified.jpg
 ---
 
-# Let’s talk about where you are and where you want to go.
+# Let’s talk about where you are and where you want to go.  
 
 If you are ready for clarity, practical support, and meaningful progress, the next step is a free discovery call. The simplest way to get started is to email or call with a brief note about what you are looking for.
 
