@@ -7,7 +7,7 @@ feature_image: /images/Lake_Modified.jpg
 
 True Connections provides practical, outcome-focused consulting for individuals, leaders, teams, and organizations that want better decisions, better communication, and better results.
 
-[Book a Consultation Call](/contact-us/)  
+[Book a Discovery Call](/contact-us/)  
 [Explore Coaching Services](/coaching-services/)
 
 ### Consulting at True Connections
