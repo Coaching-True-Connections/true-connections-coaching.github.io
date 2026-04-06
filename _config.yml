@@ -47,9 +47,9 @@ navigation_header:
     url: /faq/
   - title: Testimonials
     url: /testimonials/
-  - title: Contact 
+  - title: Contact
     url: /contact-us/
-    
+
 # Footer nav
 navigation_footer:
   - title: Back to top
