@@ -68,7 +68,7 @@ Have you worked with True Connections? Your feedback helps others find support t
 If you are ready for practical support and real progress, let’s talk.
 
 [Book a Discovery Call](/contact-us/)  
-[Explore Services](/coaching-services/)
+[Explore Coaching Services](/coaching-services/)
 
 ### Scope Note
 
