@@ -79,14 +79,14 @@ Session length: 50 minutes (standard). 75 minutes available for couples or deepe
 
 Session frequency: Weekly or every other week. Most clients start weekly for 4 to 6 sessions, then shift to biweekly.  
   
-# Engagement options:  
+## Engagement options:  
 - Free discovery call (15 to 20 minutes)  
 - Single sessions (as needed)  
 - 4-session Momentum Package  
 - 8-session Growth Package  
 - Monthly Maintenance (after initial progress)  
    
-# Pricing:  
+## Pricing:  
 - Individual coaching: $125 per 50-minute session  
 - Couples coaching: $165 per 75-minute session  
 - Consulting: $175 per 60-minute session  
