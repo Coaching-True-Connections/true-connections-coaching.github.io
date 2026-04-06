@@ -35,15 +35,15 @@ Yes. Services are available both online and in person in Sandpoint, Idaho.
 
 ### 7) How long are sessions?
 
-Typical session length is [INSERT INFO HERE].
+Typical session length is 50 minutes for individual coaching, 75 minutes for couples coaching, and 60 minutes for consulting.
 
 ### 8) How often do sessions happen?
 
-Most clients meet [INSERT INFO HERE], depending on goals, complexity, and preferred pace.
+Most clients meet weekly or every other week, depending on goals, complexity, and preferred pace. Many clients start weekly for 4 to 6 sessions, then shift to biweekly.
 
 ### 9) How long do clients usually work with you?
 
-Engagement length varies by need. Some clients choose a focused short-term plan, while others continue longer for deeper growth and accountability. Typical engagement: [INSERT INFO HERE].
+Engagement length varies by need. Some clients choose a focused short-term plan, while others continue longer for deeper growth and accountability. Many clients work together for 1 to 3 months to build momentum, then adjust from there.
 
 ### 10) What happens during the first call?
 
@@ -53,22 +53,25 @@ The discovery call focuses on your goals, current challenges, and desired outcom
 
 Rates depend on service type and format.
 
-- Discovery call: [INSERT INFO HERE]
-- Coaching sessions or packages: [INSERT INFO HERE]
-- Consulting sessions or packages: [INSERT INFO HERE]
-- Group coaching or workshops: [INSERT INFO HERE]
+- Discovery call: Free, 15 to 20 minutes
+- Individual coaching: $125 per 50-minute session
+- Couples coaching: $165 per 75-minute session
+- Consulting: $175 per 60-minute session
+- Packages: 5% to 10% savings when prepaid
+- Group coaching and workshops: Custom quote
+- Sliding fee scale: Limited reduced-fee slots are available for local clients with financial hardship. Ask during the discovery call.
 
 ### 12) Do you offer packages or only single sessions?
 
 Both are available.
 
-- One-time strategy sessions: [INSERT INFO HERE]
-- Short-term packages: [INSERT INFO HERE]
-- Ongoing support: [INSERT INFO HERE]
+- Single sessions: Available as needed
+- Short-term packages: 4-session Momentum Package or 8-session Growth Package
+- Ongoing support: Monthly Maintenance after initial progress
 
 ### 13) What is your cancellation policy?
 
-Appointments can be rescheduled or canceled with [INSERT INFO HERE] notice. Late cancellations or missed sessions are [INSERT POLICY HERE].
+Appointments can be rescheduled or canceled with at least 24 hours notice. Late cancellations and missed sessions are charged in full unless there is an emergency.
 
 ### 14) Is what I share confidential?
 
@@ -84,7 +87,7 @@ If clinical or specialized care is needed, appropriate licensed resources can be
 
 ### 17) How do I get started?
 
-Use the contact form or booking page to request your discovery call, and include a brief note about your goals.
+Email or call to request your free discovery call and include a brief note about your goals. If you are not sure whether coaching or consulting is the best fit, that is okay. The discovery call is the place to sort that out.
 
 [Book a Discovery Call](/contact-us/)
 
