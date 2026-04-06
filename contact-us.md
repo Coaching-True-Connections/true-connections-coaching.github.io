@@ -5,10 +5,9 @@ permalink: /contact-us/
 feature_image: /images/Lake_Modified.jpg
 ---
 
-If you are ready for clarity, practical support, and meaningful progress, the next step is a discovery call. Share a few details, and we will determine the best fit for coaching, consulting, or both.
+# Let’s talk about where you are and where you want to go.
 
-[Book a Discovery Call]([INSERT BOOKING PATH OR TOOL HERE])  
-[Send a Message](#contact-form)
+If you are ready for clarity, practical support, and meaningful progress, the next step is a free discovery call. The simplest way to get started is to email or call with a brief note about what you are looking for.
 
 ### What to Expect
 
@@ -19,65 +18,49 @@ Your first conversation is focused, supportive, and practical.
 - Review next steps and recommendations
 - Ask questions about process, logistics, and fit
 
-Discovery call length: [INSERT INFO HERE]  
-Discovery call fee: [INSERT INFO HERE]
+Discovery call length: 15 to 20 minutes  
+Discovery call fee: Free
 
-### Booking Options
+### Best Ways to Reach Out
 
-Choose the option that works best for you.
+#### Email
 
-#### Option 1: Schedule Online
+Email is the best option if you want to share a little context before we talk.
 
-Use the booking option to select a time.
+Please include:
+- Your name
+- Whether you are looking for coaching, consulting, or are not sure yet
+- A brief note about your goals or current challenge
+- Whether you prefer in-person or online
+- Your general availability
 
-[Book Now]([INSERT BOOKING PATH OR TOOL HERE])
+You can expect a response within two business days.
 
-#### Option 2: Send an Inquiry
+#### Phone
 
-Complete the form below and receive a response within [INSERT TIMEFRAME].
-
-### Contact Form
-
-#### Tell us a little about what you need.
-
-Suggested fields:
-
-- First Name
-- Last Name
-- Email
-- Phone (optional)
-- Preferred contact method (Email or Phone)
-- Service interest (Coaching, Consulting, Both, Not sure yet)
-- Briefly describe your goals or current challenge
-- Preferred session format (In person or Online)
-- Preferred days and times
-- How did you hear about True Connections?
-
-Button text: Request My Discovery Call
+Call or leave a voicemail if you would rather start there. Please include your name, the reason you are reaching out, and the best time to call you back.
 
 ### Direct Contact
 
-Prefer to reach out directly?
+True Connections Life Coaching and Consultation, LLC  
+1224 Washington Ave.  
+Suite 205B  
+Sandpoint, ID 83864
 
-True Connections Life Coaching & Consultation, LLC <br/>
-1224 Washington Ave. <br/>
-Suite 205B <br/>
-Sandpoint, ID 83864 <br/>
-Phone: (208) 597-0994 <br/>
-Fax: (208) 701-6277 <br/>
-Email: coachingtrueconnections@gmail.com  
-Business hours: Monday through Friday, 9am to 5pm
+Phone: (208) 597-0994  
+Email: coachingtrueconnections@gmail.com
+
+Business hours: Monday through Friday, 9:00 AM to 5:00 PM
 
 ### Who We Work With
 
 True Connections supports:
-
 - Individuals
 - Couples
 - Professionals and leaders
 - Teams and small businesses
 
-Services are available in person and online.
+Services are available in person in Sandpoint, Idaho, and online.
 
 ### Quick Answers
 
@@ -88,16 +71,13 @@ Yes. Online and in-person options are available.
 No. Services are coaching and consulting only.
 
 **How soon can I get started?**  
-Most new clients can begin within two business days.
+Availability varies, but many new clients can begin within one to two weeks.
 
 **What if I am not sure what I need?**  
 That is common. The discovery call helps determine the best path.
 
 ### Ready to Begin?
 
-Ready to move forward with clarity and support?
-
-[Book a Discovery Call]([INSERT BOOKING PATH OR TOOL HERE])
-[Contact True Connections](#contact-form)
+Email or call to request a free discovery call and share a brief note about what you are looking for.
 
 True Connections Life Coaching and Consultation provides coaching and consulting services only and does not provide therapy, diagnosis, or clinical mental health treatment.
