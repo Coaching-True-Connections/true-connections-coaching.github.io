@@ -58,23 +58,25 @@ Consulting is a strong fit for:
 
 ### Engagement Options
 
-- One-time strategy session: [INSERT INFO HERE]
-- Short-term consulting package: [INSERT INFO HERE]
-- Ongoing advisory support: [INSERT INFO HERE]
-- Team workshops: [INSERT INFO HERE]
+- One-time strategy session: 60 minutes, $175. Best for a specific decision, challenge, or planning need.
+- 4-session consulting package: $665 prepaid. Best for short-term implementation, accountability, or project support.
+- Ongoing advisory support: Available for clients who want continued strategy, troubleshooting, and follow-through. Pricing is discussed based on scope and frequency.
+- Team workshops: Available by custom quote based on group size, length, and goals.
 
 ### Format and Availability
 
 - In-person consulting in Sandpoint, Idaho
 - Online consulting available
-- Session length: [INSERT INFO HERE]
-- Pricing: [INSERT INFO HERE]
+- Standard session length: 60 minutes
+- Most consulting clients begin with either a one-time strategy session or a 4-session package
+- Limited reduced-fee options may be available for local individual clients with financial hardship
+- Business and team work is quoted separately based on scope
 
 ### Ready to Begin?
 
 Need clear strategy and practical execution support?
 
-[Book a Consultation Call](/contact-us/)  
+[Book a Discovery Call](/contact-us/)  
 [Contact True Connections](/contact-us/)
 
 ### Scope Note
