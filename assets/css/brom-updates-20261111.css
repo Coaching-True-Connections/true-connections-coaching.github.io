@@ -1,0 +1,132 @@
+/* November 11 written changes. Loaded only by normal site pages. */
+.tc-nov11 {
+  --tc-button-forest: #1a3320;
+  --tc-button-sage: #d4eccd;
+  --tc-button-white: #ffffff;
+}
+/* Normal-state palettes; existing hover geometry and focus indicators remain. */
+.tc-nov11 .btn.primary:not(:hover),
+.tc-nov11 .btn.dark:not(:hover) {
+  background: var(--tc-button-forest);
+  color: var(--tc-button-white);
+  border-color: var(--tc-button-forest);
+}
+.tc-nov11 .btn.cream:not(:hover),
+.tc-nov11.page-about .hero .actions .btn.glass:not(:hover) {
+  background: var(--tc-button-sage);
+  color: var(--tc-button-forest);
+  border-color: var(--tc-button-forest);
+  border-width: 1px;
+}
+.tc-nov11 .hero .btn.primary:not(:hover),
+.tc-nov11 .ready .btn.primary:not(:hover),
+.tc-nov11 .scope-cta .btn.primary:not(:hover),
+.tc-nov11 .drawer .btn.primary:not(:hover),
+.tc-nov11 .hero-nav .nav-cta > .btn.glass:not(:hover) {
+  background: var(--tc-button-sage);
+  color: var(--tc-button-forest);
+  border-color: var(--tc-button-sage);
+}
+/* Replacement Contact paragraphs use the existing site's body text scale. */
+.tc-nov11.page-contact .contact-next-copy {
+  max-width: 760px;
+  margin: 28px auto 0;
+  color: var(--ink-2);
+  font-size: 18px;
+  line-height: 1.7;
+}
+.tc-nov11.page-contact .contact-next-copy p + p { margin-top: 20px; }
+.tc-nov11.page-contact .contact-faq-link {
+  display: inline-block;
+  margin-top: 20px;
+  color: var(--forest);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+/* Reference-gated cream heroes: Home and About only. Shared dimensions do not
+   depend on headline or description length. The other heroes stay unchanged. */
+.tc-nov11 .hero.tc-cream-hero {
+  --cream-photo-height: clamp(360px, 31.2vw, 600px);
+  --cream-gutter: 4.4vw;
+  --cream-overlap: clamp(36px, 3.03vw, 58px);
+  position: relative;
+  min-height: 0;
+  overflow: visible;
+  background: var(--cream);
+  color: var(--ink);
+  padding: 0 0 clamp(48px, 4vw, 64px);
+}
+.tc-nov11 .hero.tc-cream-hero::before,
+.tc-nov11 .hero.tc-cream-hero::after,
+.tc-nov11 .tc-cream-hero .hero-content::before { display: none; }
+.tc-nov11 .tc-cream-hero .hero-scenery { display: block; width: 100%; height: var(--cream-photo-height); }
+.tc-nov11 .tc-cream-hero .hero-scenery img {
+  display: block; width: 100%; height: 100%; object-fit: cover; object-position: 50% 50%;
+}
+.tc-nov11 .tc-cream-hero .hero-content {
+  width: auto; max-width: none; margin: calc(-1 * var(--cream-overlap)) var(--cream-gutter) 0; padding: 0;
+}
+.tc-nov11 .tc-cream-hero .tc-hero-panel {
+  display: grid; grid-template-columns: 45.5fr 54.5fr; align-items: stretch;
+  width: 100%; padding: clamp(32px, 2.3vw, 44px) clamp(32px, 3.3vw, 64px);
+  border: 0; border-radius: 26px; background: var(--cream); color: var(--ink);
+  box-shadow: 0 22px 30px rgba(26, 51, 32, .28), 0 4px 8px rgba(26, 51, 32, .12);
+}
+.tc-nov11 .tc-cream-hero .hero-heading { min-width: 0; padding-right: clamp(24px, 3.5vw, 64px); }
+.tc-nov11 .tc-cream-hero .hero-summary {
+  min-width: 0; padding-left: clamp(28px, 3.7vw, 70px); border-left: 1px solid #80a58b;
+  display: flex; flex-direction: column; justify-content: center;
+}
+.tc-nov11 .tc-cream-hero .hero-eyebrow {
+  display: flex; align-items: center; gap: 16px; margin: 0; color: var(--forest);
+  opacity: 1; font-size: 14px; font-weight: 700; line-height: 1.4; letter-spacing: .09em;
+}
+.tc-nov11 .tc-cream-hero .hero-eyebrow::before,
+.tc-nov11 .tc-cream-hero .hero-eyebrow::after {
+  content: ''; display: block; position: static; flex: 0 0 48px; width: 48px; height: 1px;
+  background: #376b4f; margin: 0; transform: none;
+}
+.tc-nov11 .tc-cream-hero h1 {
+  max-width: none; margin: 20px 0 0; color: var(--ink);
+  font-size: clamp(40px, 3.8vw, 62px); line-height: 1.12; letter-spacing: -.025em;
+}
+.tc-nov11 .tc-cream-hero h1 em { color: #376b4f; }
+.tc-nov11 .tc-cream-hero p.lede { max-width: none; margin: 0; color: var(--ink); font-size: clamp(18px, 1.4vw, 22px); line-height: 1.45; }
+.tc-nov11 .tc-cream-hero .actions { margin-top: 32px; gap: 16px; }
+.tc-nov11 .tc-cream-hero .actions .btn { flex: 1 1 170px; font-size: clamp(11px, .85vw, 13px); min-height: 52px; }
+.tc-nov11 .tc-cream-hero .actions .btn.primary:not(:hover) {
+  background: #1a3320; color: #ffffff; border-color: #1a3320;
+}
+.tc-nov11 .tc-cream-hero .actions .btn.cream:not(:hover) {
+  background: #d4eccd; color: #1a3320; border: 1px solid #1a3320;
+}
+.tc-nov11 .tc-cream-hero .actions .btn.primary:hover { background: #29513c; color: #fff; border-color: #29513c; }
+.tc-nov11 .tc-cream-hero .actions .btn.cream:hover { background: #c0deb7; color: #1a3320; border-color: #1a3320; }
+@media (max-width: 880px) {
+  .tc-nov11 .hero.tc-cream-hero {
+    --cream-photo-height: clamp(280px, 54vw, 430px);
+    --cream-gutter: clamp(16px, 4.4vw, 36px);
+    --cream-overlap: 28px;
+    padding-bottom: 40px;
+  }
+  .tc-nov11.page-about .tc-cream-hero .hero-scenery img { object-position: 75% 50%; }
+  .tc-nov11 .tc-cream-hero .tc-hero-panel { display: block; padding: clamp(26px, 4.4vw, 36px); border-radius: 22px; }
+  .tc-nov11 .tc-cream-hero .hero-heading { padding: 0; }
+  .tc-nov11 .tc-cream-hero .hero-summary { display: block; padding: 0; border: 0; margin-top: 24px; }
+  .tc-nov11 .tc-cream-hero .hero-eyebrow { font-size: 12px; gap: 14px; }
+  .tc-nov11 .tc-cream-hero .hero-eyebrow::before,
+  .tc-nov11 .tc-cream-hero .hero-eyebrow::after { flex-basis: 36px; width: 36px; }
+  .tc-nov11 .tc-cream-hero h1 { font-size: clamp(36px, 5.2vw, 46px); margin-top: 20px; }
+  .tc-nov11 .tc-cream-hero p.lede { font-size: 18px; line-height: 1.55; }
+  .tc-nov11 .tc-cream-hero .actions { flex-direction: column; flex-wrap: nowrap; margin-top: 26px; gap: 12px; }
+  .tc-nov11 .tc-cream-hero .actions .btn { flex: none; width: 100%; font-size: 11px; }
+}
+/* Remove the legacy dark-photo text halo on the opaque light panels. */
+.tc-nov11 .tc-cream-hero h1,
+.tc-nov11 .tc-cream-hero h1 em { text-shadow: none; }
+.tc-nov11 .tc-cream-hero .actions .btn { box-shadow: none; }
+.tc-nov11.tc-site-rollout .hero.tc-cream-hero h1 em { text-shadow: none; }
+@media (min-width: 881px) {
+  .tc-nov11.page-home .tc-cream-hero .hero-scenery img { object-position: 50% 22%; }
+}

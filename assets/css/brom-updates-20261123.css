@@ -1,0 +1,4 @@
+/* November 23: exact shared navigation stops; preserve sticky/menu/CTA geometry. */
+.tc-direct-port .hero-nav {background:linear-gradient(to bottom,#2A4736 0%,#1A3320 65%,#162B1D 100%)}
+/* Only this supported-in accent changes on the existing tan surface. */
+.tc-direct-port.page-about .tc-supported-accent {color:#285C3B}

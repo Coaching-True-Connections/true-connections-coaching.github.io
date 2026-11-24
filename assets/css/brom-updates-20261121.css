@@ -1,0 +1,23 @@
+/* Footer A: written font/alignment requirements control over the supplied reference. */
+.tc-direct-port .tc-site-footer--s03 .tc-footer-s03__primary a {
+  font:400 17px/1.3 'Lora',serif;
+  min-height:44px;
+}
+.tc-direct-port .tc-site-footer--s03 .tc-footer-s03__contact :is(.tc-footer-s03__phone,.tc-footer-s03__email,.tc-footer-s03__address) {
+  font-family:'Source Sans 3',sans-serif;
+  font-size:15px;
+  font-weight:400;
+  font-style:normal;
+}
+.tc-direct-port .tc-site-footer--s03 .tc-footer-s03__identity {text-align:center}
+.tc-direct-port .tc-site-footer--s03 .tc-footer-s03__contact {align-items:center;text-align:center}
+.tc-direct-port .tc-site-footer--s03 .tc-footer-s03__contact .tc-footer-s03__address {align-items:center}
+.tc-direct-port .tc-site-footer--s03 .tc-footer-s03__legal-register {text-align:left}
+.tc-nov18.page-about .tc-cream-hero .hero-scenery img {object-position:50% 50%;transform:none}
+.tc-nov18.page-contact .tc-cream-hero .hero-scenery img {object-position:50% 50%;transform:none}
+@media(max-width:880px) {
+  .tc-direct-port .tc-site-footer--s03 .tc-footer-s03__identity {text-align:left}
+  .tc-direct-port .tc-site-footer--s03 .tc-footer-s03__contact {align-items:flex-start;text-align:left}
+  .tc-direct-port .tc-site-footer--s03 .tc-footer-s03__contact .tc-footer-s03__address {align-items:flex-start}
+  .tc-nov18.page-about .tc-cream-hero .hero-scenery img {object-position:20% 50%}
+}
