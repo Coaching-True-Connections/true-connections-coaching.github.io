@@ -1,0 +1,59 @@
+/* Image-only correction: restore the eight verified page-specific scenes. */
+.tc-site-rollout.page-about .hero { --tc-hero-image: url('/images/hero-backgrounds/approved-photo-set-d618dc7f/about-v5-1672.webp'); background-position: 58% 50%; }
+.tc-site-rollout.page-coaching .hero { --tc-hero-image: url('/images/hero-backgrounds/approved-photo-set-d618dc7f/coaching-v6-1672.webp'); background-position: 62% 50%; }
+.tc-site-rollout.page-consulting .hero { --tc-hero-image: url('/images/hero-backgrounds/approved-photo-set-d618dc7f/consulting-v5-1672.webp'); background-position: 58% 50%; }
+.tc-site-rollout.page-how-it-works .hero { --tc-hero-image: url('/images/hero-backgrounds/approved-photo-set-d618dc7f/how-it-works-v6-1672.webp'); background-position: 64% 50%; }
+.tc-site-rollout.page-testimonials .hero { --tc-hero-image: url('/images/hero-backgrounds/approved-photo-set-d618dc7f/testimonials-v7-1672.webp'); background-position: 58% 50%; }
+.tc-site-rollout.page-faq .hero { --tc-hero-image: url('/images/hero-backgrounds/approved-photo-set-d618dc7f/faq-v8-1672.webp'); background-position: 58% 50%; }
+.tc-site-rollout.page-contact .hero { --tc-hero-image: url('/images/hero-backgrounds/approved-photo-set-d618dc7f/contact-v6-1672.webp'); background-position: 62% 50%; }
+.tc-site-rollout.page-scope .hero { --tc-hero-image: url('/images/hero-backgrounds/approved-photo-set-d618dc7f/scope-of-practice-v6-1672.webp'); background-position: 50% 50%; }
+@media (min-width: 1600px) {
+  .tc-site-rollout.page-about .hero { background-position: 56% 50%; }
+  .tc-site-rollout.page-coaching .hero { background-position: 60% 50%; }
+  .tc-site-rollout.page-consulting .hero { background-position: 55% 50%; }
+  .tc-site-rollout.page-how-it-works .hero { background-position: 62% 50%; }
+  .tc-site-rollout.page-testimonials .hero { background-position: 54% 50%; }
+  .tc-site-rollout.page-faq .hero { background-position: 55% 50%; }
+  .tc-site-rollout.page-contact .hero { background-position: 58% 50%; }
+  .tc-site-rollout.page-scope .hero { background-position: 50% 50%; }
+}
+@media (min-width: 881px) and (max-width: 1080px) {
+  .tc-site-rollout.page-about .hero { background-position: 65% 50%; }
+  .tc-site-rollout.page-coaching .hero { background-position: 70% 50%; }
+  .tc-site-rollout.page-consulting .hero { background-position: 66% 50%; }
+  .tc-site-rollout.page-how-it-works .hero { background-position: 72% 50%; }
+  .tc-site-rollout.page-testimonials .hero { background-position: 65% 50%; }
+  .tc-site-rollout.page-faq .hero { background-position: 64% 50%; }
+  .tc-site-rollout.page-contact .hero { background-position: 70% 50%; }
+  .tc-site-rollout.page-scope .hero { background-position: 40% 50%; }
+}
+@media (max-width: 880px) {
+  .tc-site-rollout.page-about .hero::before { background-image: url('/images/hero-backgrounds/approved-photo-set-d618dc7f/about-v5-960.webp'); background-position: 65% 50%; }
+  .tc-site-rollout.page-coaching .hero::before { background-image: url('/images/hero-backgrounds/approved-photo-set-d618dc7f/coaching-v6-960.webp'); background-position: 70% 50%; }
+  .tc-site-rollout.page-consulting .hero::before { background-image: url('/images/hero-backgrounds/approved-photo-set-d618dc7f/consulting-v5-960.webp'); background-position: 66% 50%; }
+  .tc-site-rollout.page-how-it-works .hero::before { background-image: url('/images/hero-backgrounds/approved-photo-set-d618dc7f/how-it-works-v6-960.webp'); background-position: 72% 50%; }
+  .tc-site-rollout.page-testimonials .hero::before { background-image: url('/images/hero-backgrounds/approved-photo-set-d618dc7f/testimonials-v7-960.webp'); background-position: 65% 50%; }
+  .tc-site-rollout.page-faq .hero::before { background-image: url('/images/hero-backgrounds/approved-photo-set-d618dc7f/faq-v8-960.webp'); background-position: 64% 50%; }
+  .tc-site-rollout.page-contact .hero::before { background-image: url('/images/hero-backgrounds/approved-photo-set-d618dc7f/contact-v6-960.webp'); background-position: 70% 50%; }
+  .tc-site-rollout.page-scope .hero::before { background-image: url('/images/hero-backgrounds/approved-photo-set-d618dc7f/scope-of-practice-v6-960.webp'); background-position: 40% 50%; }
+}
+@media (max-width: 600px) {
+  .tc-site-rollout.page-about .hero::before { background-position: 36% 50%; }
+  .tc-site-rollout.page-coaching .hero::before { background-position: 20% 50%; }
+  .tc-site-rollout.page-consulting .hero::before { background-position: 44% 50%; }
+  .tc-site-rollout.page-how-it-works .hero::before { background-position: 56% 50%; }
+  .tc-site-rollout.page-testimonials .hero::before { background-position: 46% 50%; }
+  .tc-site-rollout.page-faq .hero::before { background-position: 34% 50%; }
+  .tc-site-rollout.page-contact .hero::before { background-position: 38% 50%; }
+  .tc-site-rollout.page-scope .hero::before { background-position: 25% 50%; }
+}
+@media (max-width: 400px) {
+  .tc-site-rollout.page-about .hero::before { background-position: 34% 50%; }
+  .tc-site-rollout.page-coaching .hero::before { background-position: 18% 50%; }
+  .tc-site-rollout.page-consulting .hero::before { background-position: 42% 50%; }
+  .tc-site-rollout.page-how-it-works .hero::before { background-position: 54% 50%; }
+  .tc-site-rollout.page-testimonials .hero::before { background-position: 44% 50%; }
+  .tc-site-rollout.page-faq .hero::before { background-position: 32% 50%; }
+  .tc-site-rollout.page-contact .hero::before { background-position: 36% 50%; }
+  .tc-site-rollout.page-scope .hero::before { background-position: 24% 50%; }
+}

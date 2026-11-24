@@ -1,0 +1,48 @@
+/* Nov 20 verified values from original plain text and HTML: role labels 15px;
+   lined labels 15px desktop / 14px mobile, rust #88442D on cream. */
+.tc-nov18 :is(.path-card .topline .ix,.reach-card .topline .ix,.pcard .ix,.direct-card .lrow .k,.pullquote .by,.ready .panel .ribbon) {
+ font-family:'Source Sans 3',sans-serif;font-style:normal;font-weight:600;font-size:15px;letter-spacing:.05em;
+}
+.tc-nov18 :is(.path-card .topline .ix,.reach-card .topline .ix,.pcard .ix) {text-transform:uppercase}
+.tc-nov18 :is(.path-card .topline .ix,.reach-card .topline .ix) {color:#88442D}
+.tc-nov18 :is(.feature.green .pcard .ix,.direct-card .lrow .k) {color:#D4ECCD}
+.tc-nov18 .pullquote .by {color:var(--ink)}
+.tc-nov18 .ready .panel .ribbon {color:#fff;background:#88442D}
+/* Only specified lined-label roles; their current font and sizes are preserved. */
+.tc-nov18 :is(.tc-nov20-lined-label,.vstep .label) {letter-spacing:.05em}
+.tc-nov18 :is(.ready .kicker,.feature.green .kicker) {color:#D4ECCD;letter-spacing:.05em}
+.tc-site-footer--s03 .tc-footer-s03__primary a,.tc-site-footer--s03 .tc-footer-s03__phone {font-size:16px}
+.tc-site-footer--s03 :is(.tc-footer-s03__location,.tc-footer-s03__email,.tc-footer-s03__address) {font-size:15px}
+.tc-site-footer--s03 :is(.tc-footer-s03__disclosure,.tc-footer-s03__copyright,.tc-footer-s03__policies a) {font-size:14px}
+.tc-nov18.page-contact .tc-contact-direct-flow {background:linear-gradient(160deg,#2f6864 0%,var(--teal) 44%,#15332c 100%)}
+.tc-nov18.page-contact .tc-contact-direct-flow .direct {background:transparent}
+.tc-nov18.page-contact .tc-contact-direct-flow > .section-transition {
+ mask-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 90' preserveAspectRatio='none'%3E%3Crect width='1440' height='90' fill='white'/%3E%3Cpath d='M0,0 C320,86 700,4 1040,58 C1240,90 1360,26 1440,46 L1440,100 L0,100 Z' fill='black'/%3E%3C/svg%3E");mask-mode:luminance;mask-size:100% 100%;background:var(--cream);
+}
+.tc-nov18.page-contact .tc-contact-direct-flow > .section-transition svg {visibility:hidden}
+.tc-site-footer--s03 .tc-footer-s03__contact .tc-footer-s03__address {font-size:15px}
+/* Exact supplied scenes. Home and Scope retain their baseline images and framing. */
+.tc-nov18.page-about .tc-cream-hero .hero-scenery img {object-position:50% 50%;transform:none}
+.tc-nov18.page-coaching .tc-cream-hero .hero-scenery img {object-position:50% 50%;transform:none}
+.tc-nov18.page-how-it-works .tc-cream-hero .hero-scenery img {object-position:50% 50%;transform:none}
+.tc-nov18.page-testimonials .tc-cream-hero .hero-scenery img {object-position:65% 50%;transform:none}
+.tc-nov18.page-faq .tc-cream-hero .hero-scenery img {object-position:60% 50%;transform:none}
+.tc-nov18.page-contact .tc-cream-hero .hero-scenery img {object-position:60% 50%;transform:none}
+@media(max-width:880px) {
+.tc-nov18.page-about .tc-cream-hero .hero-scenery img {object-position:20% 50%;transform:none}
+.tc-nov18.page-coaching .tc-cream-hero .hero-scenery img {object-position:50% 50%;transform:none}
+.tc-nov18.page-how-it-works .tc-cream-hero .hero-scenery img {object-position:80% 50%;transform:none}
+.tc-nov18.page-testimonials .tc-cream-hero .hero-scenery img {object-position:50% 50%;transform:none}
+.tc-nov18.page-faq .tc-cream-hero .hero-scenery img {object-position:95% 50%;transform:none}
+.tc-nov18.page-contact .tc-cream-hero .hero-scenery img {object-position:60% 50%;transform:none}
+}
+/* Footer paragraphs live inside main in the existing templates: outrank body roles. */
+.tc-direct-port .tc-site-footer--s03 :is(.tc-footer-s03__location,.tc-footer-s03__email,.tc-footer-s03__address) {font-size:15px}
+.tc-direct-port .tc-site-footer--s03 :is(.tc-footer-s03__disclosure,.tc-footer-s03__copyright,.tc-footer-s03__policies a) {font-size:14px}
+/* Exclude the mask's fractional bottom-edge raster fringe; curve geometry is unchanged. */
+.tc-nov18.page-contact .tc-contact-direct-flow > .section-transition {clip-path:inset(0 0 2px 0)}
+
+/* Final verified lined-label values; preserve existing font, weights and line geometry. */
+.tc-nov18 :is(.tc-nov20-lined-label,.vstep .label) {font-size:15px;letter-spacing:.05em;color:#88442D}
+.tc-nov18 .tc-nov20-lined-label::before,.tc-nov18 .tc-nov20-lined-label::after {background:#88442D}
+@media(max-width:880px) {.tc-nov18 :is(.tc-nov20-lined-label,.vstep .label) {font-size:14px}}

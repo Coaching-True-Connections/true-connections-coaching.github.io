@@ -1,0 +1,43 @@
+/* November 16 section typography; normal review pages only. */
+.tc-nov16 .kicker,
+.tc-nov16 .vstep .label {
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: .12em;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+.tc-nov16 .kicker {
+  max-width: 100%;
+  white-space: normal;
+  text-align: center;
+}
+.tc-nov16 .kicker::before,
+.tc-nov16 .kicker::after { flex-shrink: 0; }
+.tc-nov16 .brom-story-copy .kicker,
+.tc-nov16 .ready .copy .kicker { text-align: left; }
+.tc-nov16.page-home .hero-note-flow .editorial h2 { font-size: 48px; }
+@media (max-width: 880px) {
+  .tc-nov16 .kicker,
+  .tc-nov16 .vstep .label { font-size: 14px; }
+  .tc-nov16 .kicker { gap: 10px; }
+  .tc-nov16 .kicker::before,
+  .tc-nov16 .kicker::after { width: 18px; flex: 0 0 18px; }
+  .tc-nov16.page-home .hero-note-flow .editorial h2 { font-size: clamp(32px, 5.6vw, 44px); }
+}
+
+/* Manifest-selected scenes; protected Testimonials, FAQ and Scope retain prior framing. */
+.tc-nov16.page-home .tc-cream-hero .hero-scenery img { object-position: 50% 50%; transform: none; }
+.tc-nov16.page-about .tc-cream-hero .hero-scenery img { object-position: 50% 50%; transform: none; }
+.tc-nov16.page-coaching .tc-cream-hero .hero-scenery img { object-position: 50% 40%; transform: none; }
+.tc-nov16.page-consulting .tc-cream-hero .hero-scenery img { object-position: 50% 50%; transform: none; }
+.tc-nov16.page-how-it-works .tc-cream-hero .hero-scenery img { object-position: 50% 50%; transform: none; }
+.tc-nov16.page-contact .tc-cream-hero .hero-scenery img { object-position: 50% 50%; transform: none; }
+@media (max-width: 880px) {
+  .tc-nov16.page-home .tc-cream-hero .hero-scenery img { object-position: 50% 50%; transform-origin: 50% 50%; transform: scale(1); }
+  .tc-nov16.page-about .tc-cream-hero .hero-scenery img { object-position: 50% 50%; transform-origin: 50% 50%; transform: scale(1); }
+  .tc-nov16.page-coaching .tc-cream-hero .hero-scenery img { object-position: 48% 100%; transform-origin: 48% 100%; transform: scale(1.12); }
+  .tc-nov16.page-consulting .tc-cream-hero .hero-scenery img { object-position: 50% 50%; transform-origin: 50% 50%; transform: scale(1); }
+  .tc-nov16.page-how-it-works .tc-cream-hero .hero-scenery img { object-position: 90% 50%; transform-origin: 90% 50%; transform: scale(1); }
+  .tc-nov16.page-contact .tc-cream-hero .hero-scenery img { object-position: 90% 50%; transform-origin: 90% 50%; transform: scale(1); }
+}

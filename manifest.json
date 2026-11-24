@@ -1,0 +1,9 @@
+{
+  "lang": "en-US",
+  "name": "True Connections",
+  "short_name": "TrueConnections",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
