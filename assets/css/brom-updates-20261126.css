@@ -1,0 +1,35 @@
+/* November 26 client refinements. The all-page navigation trial is not in this release. */
+.tc-site-rollout .announce a,
+.tc-site-rollout .announce a:hover,
+.tc-site-rollout .announce a:focus-visible {
+  color: #88442d;
+}
+.tc-direct-port [data-tc-warm-section] { background-color: var(--warm-cream); }
+.tc-direct-port.page-scope .tc-cream-hero .hero-scenery img { object-position: 50% 50%; transform: none; }
+.tc-direct-port.page-scope .scope-body { border-top: 1px solid #a59479; }
+.tc-direct-port.page-scope .scope-toc h2 {
+  color: var(--ink);
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: .07em;
+}
+.tc-direct-port.page-scope .scope-article > section > h2 { font-size: 34px; }
+.tc-direct-port.page-home .paths-sub h3 { font-size: 28px; }
+.tc-direct-port.page-home .paths-grid .path-card h4 { font-size: 24px; }
+.tc-direct-port.page-how-it-works .vstep .chip b { color: #285c3b; }
+.tc-direct-port:is(.page-home,.page-contact) .ready .panel .scope { color: #d9d2c2; }
+
+@media (max-width: 880px) {
+  .tc-direct-port.page-scope .tc-cream-hero .hero-scenery img { object-position: 23% 50%; }
+  .tc-direct-port.page-scope .scope-toc h2 { font-size: 14px; }
+  .tc-direct-port.page-scope .scope-article > section > h2 { font-size: 28px; }
+  .tc-direct-port.page-home .paths-sub h3 { font-size: 26px; }
+  .tc-direct-port.page-home .paths-grid .path-card h4 { font-size: 22px; }
+}
+
+/* Keep the warmer Consulting band readable at the narrowest phone widths. */
+@media (max-width: 370px) {
+  .tc-direct-port.page-consulting [data-tc-warm-section] .process-wrap.four {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
